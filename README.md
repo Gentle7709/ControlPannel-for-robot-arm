@@ -2,7 +2,6 @@
 i made a website control pannel for servos in robotic arm 
 
 كل التفاصيل في ملف الـ
-
 pdf
 بالأعلى
 
