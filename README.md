@@ -8,3 +8,7 @@ pdf
 
 يمكن تجربة الصفحة من خلال الرابط التالي : 
 https://gentle7709.github.io/ControlPannel-for-robot-arm/
+
+
+تم استلهام حل المهمة بفضل الله ثم للمهندسة : 
+https://github.com/rehammahal
